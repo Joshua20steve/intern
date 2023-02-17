@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "desc": "Lion",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/1200px-Lion_waiting_in_Namibia.jpg"
+    },
+    {
+        "id": 2,
+        "desc": "Tiger",
+        "url": "https://cdn.mos.cms.futurecdn.net/qmTrmidGxtYqoT4zjoxPcV.jpg"
+    },
+    {
+        "id": 3,
+        "desc": "Eagle",
+        "url": "https://cdn.britannica.com/92/152292-050-EAF28A45/Bald-eagle.jpg"
+    },
+    {
+        "id": 4,
+        "desc": "Peacock",
+        "url": "https://i.natgeofe.com/n/a4e20a18-8ae7-4f9a-be59-d7038dbd8d82/4463961_square.jpg"
+    },
+    {
+        "id": 5,
+        "desc": "Swann",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mute_swan_Vrhnika.jpg"
+    },
+    {
+        "id": 6,
+        "desc": "Biryani",
+        "url": "https://vismaifood.com/storage/app/uploads/public/980/eb9/ed6/thumb__700_0_0_0_auto.jpg"
+    },
+    {
+        "id": 7,
+        "desc": "Pav Baji",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bambayya_Pav_bhaji.jpg"
+    },
+    {
+        "id": 8,
+        "desc": "Kebab",
+        "url": "https://joyfoodsunshine.com/wp-content/uploads/2022/06/chicken-kebabs-recipe-1.jpg"
+    },
+    {
+        "id": 9,
+        "desc": "Male",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mars_symbol.svg/800px-Mars_symbol.svg.png"
+    },
+    {
+        "id": 10,
+        "desc": "Female",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Venus_symbol.svg/1200px-Venus_symbol.svg.png"
+    }
+]
